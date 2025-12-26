@@ -1,5 +1,9 @@
 # 小蜜蜂
 小蜜蜂 提供稳定高速的科学上网服务，支持多平台设备，解锁奈飞 Netflix、HBO Max、Disney+ 等主流流媒体，适用于出国服务、流媒体加速以及个人和企业定制化解决方案，保障连接安全稳定，畅享高速体验。
+
+- [🔥🔥🔥2026 年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/airport/summary)
+- [🔥🔥🔥 稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/sharing/account-sharing-guide)
+
 ## 小蜜蜂 新人特惠特惠!
 
 - 全套餐推出85折: `xmfwww85`
